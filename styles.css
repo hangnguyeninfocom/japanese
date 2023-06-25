@@ -1,0 +1,14 @@
+.setting--page{
+    /* display: flex; */
+    max-width: 800px;
+    background-color: black;
+    color: aliceblue;
+    font-size: 16px;
+    margin-top: 20px,50px;
+    font-family: Roboto, system-ui, sans-serif;
+    line-height: 20px;
+    /* border: 1px solid whitesmoke; */
+    box-sizing: border-box;
+    
+
+}
