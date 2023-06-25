@@ -1,12 +1,12 @@
 .setting--page{
     /* display: flex; */
     max-width: 800px;
-    background-color: black;
-    color: aliceblue;
-    font-size: 16px;
+    background-color: #242424;
+    color: #F5F5F5;
+    font-size: 17px;
     margin-top: 20px,50px;
-    font-family: Roboto, system-ui, sans-serif;
-    line-height: 20px;
+    font-family: 'Segoe UI', 'SegoeUI', 'Roboto', sans-serif;
+    line-height: 26px;
     /* border: 1px solid whitesmoke; */
     box-sizing: border-box;
     
