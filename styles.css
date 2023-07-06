@@ -1,24 +1,32 @@
+body{
+    background-color: #242424;
+    color: #F5F5F5;
+    margin: 20px;
+}
 .setting--page{
     /* display: flex; */
     max-width: 800px;
-    background-color: #242424;
-    color: #F5F5F5;
+    /* background-color: #242424; */
+    /* color: #F5F5F5; */
     font-size: 17px;
     margin-top: 20px;
-    margin-left: 100px;
+    margin-left: auto;
+    margin-right: auto;
     font-family: 'Segoe UI', 'SegoeUI', 'Roboto', sans-serif;
     line-height: 26px;
     /* border: 1px solid whitesmoke; */
     box-sizing: border-box;   
 
 }
+
 .setting-index{
     /* text-decoration:none; */
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     margin-top: 100px;
-    margin-left: 100px;
-    line-height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+
     
 }
 .setting--a{
